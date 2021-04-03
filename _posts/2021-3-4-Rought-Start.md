@@ -15,11 +15,11 @@ I went to google and looked up adding a custom resolution in linux via the termi
 
 I typed ```xrandr``` into the terminal to see what my display was named in my case it was Virtual1.
 
-(Image here)
+![](https://i.imgur.com/3x493s3.png)
 
 Then I had to calculate the mode line with my monitor's resolution, that was easy I just put [cvt 1920 1080] because my screen resolution was 1920x1080p.
 
-(Image 2 here)
+![](https://i.imgur.com/kRKz2kf.png)
 
 Then I copied the mode line (the underlined part) and put it into this command ```sudo xrandr --newmode "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync```. Then after that ran I put in ```sudo xrandr --addmode Virtual1 "1920x1080_60.00"``` with the desired resolution and my display name to add it to the dropdown menu in settings. And last, because I didn't feel like going to settings again just put in ```xrandr --output Virtual1 --mode "1920x1080_60.00"``` to test it before closing the terminal, and bingo, it worked!
 
