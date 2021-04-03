@@ -1,9 +1,9 @@
 title: Hacker-Blog
 description: "A Jekyll Blog Theme For Hackers"
-author:
+author:Petie Deveer
   name: "ItalianSquirel"
   email: "petiedeveer@gmail.com"
-  url: ""
+  url: "ItalianSquirel.github.io"
 
 baseurl: /
 
