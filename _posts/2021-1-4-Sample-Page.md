@@ -115,7 +115,7 @@ end
 <dd>Green</dd>
 </dl>
 
-#[Test Download][1]
+[Test Download][1]
 [1]:{{ https://italiansquirel.com/ }}/downloads/petiePiPLate.zip
 
 ```
