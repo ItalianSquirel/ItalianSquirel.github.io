@@ -3,7 +3,7 @@ title: I am Cool
 published: true
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Text can be *gay*, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](another-page).
 
