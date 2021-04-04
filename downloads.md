@@ -7,5 +7,7 @@ title: Downloads
 
 [My Raspberry Pi Plate Cover](https://github.com/ItalianSquirel/ItalianSquirel.github.io/raw/master/downloads/petiePiPlate.zip)
 
-More Coming Soon...
+[Grow Tower Files](https://github.com/ItalianSquirel/ItalianSquirel.github.io/raw/master/downloads/Grow%20Tower%20Files%202.zip)
 
+
+More Coming Soon...
