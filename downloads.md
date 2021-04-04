@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Downloads
+permalink: /downloads/
 ---
 
 Some downloads will apear here
