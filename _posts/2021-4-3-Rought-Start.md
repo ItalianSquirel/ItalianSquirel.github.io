@@ -39,3 +39,10 @@ I then made it so it didn't need my password to run commands. To do this I  type
 Shortly after figuring th=is whole mess out I actually found that VirtualBox has a digital disk you can put into your VM to fix this issue. I screamed internally. I'm gonna take a break now.
 
 See ya.
+
+P.S. Ive made some changes to the site including but not limited to:
+
+* I added a downloads page just for files I tend to use a bit and some I share
+* Added a link to my GitHub
+* Added a FavIcon
+* Fixed the date format of posts
