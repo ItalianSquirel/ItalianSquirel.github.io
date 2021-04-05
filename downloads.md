@@ -3,7 +3,7 @@ layout: page
 title: Downloads
 ---
 
-# [](#header-1)Some downloads will apear here:
+## [](#header-1)Some downloads will apear here:
 
 
 [My Raspberry Pi Plate Cover](https://github.com/ItalianSquirel/ItalianSquirel.github.io/raw/master/downloads/petiePiPlate.zip)
