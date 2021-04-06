@@ -22,6 +22,6 @@ Given my extensive history with debate in high school I am very good at ensuring
 
 
 
-If you need to contact me feel free to email me at petiedeveer@gmail.com and ill respond to you as soon as possible.
+If you need to contact me feel free to email me at petiedeveer@gmail.com and I'll respond to you as soon as possible.
 
 
