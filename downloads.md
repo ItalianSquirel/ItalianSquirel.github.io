@@ -3,7 +3,7 @@ layout: page
 title: Downloads
 ---
 
-## This page is a place where I will put projects, files and other stuff. I find this better than google docs, if you ask me for something I'll more than likely point you here or send it via email.
+### This page is a place where I will put projects, files and other stuff. I find this better than google docs, if you ask me for something I'll more than likely point you here or send it via email.
 
 
 [My Raspberry Pi Plate Cover](https://github.com/ItalianSquirel/ItalianSquirel.github.io/raw/master/downloads/petiePiPlate.zip)
