@@ -20,5 +20,7 @@ title: Websites/Tools
 
 [Win-RAR](http://www.win-rar.com)
 
+[WSL Setup](https://pbpython.com/wsl-python.html)
+
 More Coming Soon...
 
