@@ -15,9 +15,9 @@ As for updates to the site, I added a sites page that has plenty of articles, we
 <details>
   <summary>"Heres the links to what I was talking about earlier:"</summary>
   
-[System76](https://system76.com/)
+* [System76](https://system76.com/)
 
-[Komorebi](https://github.com/cheesecakeufo/komorebi)
+* [Komorebi](https://github.com/cheesecakeufo/komorebi)
 
 "P.S. I was just testing the Details/Summary Pages addition."
 </details>
