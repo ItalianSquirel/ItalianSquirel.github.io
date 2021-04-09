@@ -4,7 +4,7 @@ published: true
 ---
 Howdy
 
-Recently I've been loving Linux a lot, just something about the ability to fully customize the whole operating system is so appealing, like recently I got a moving wallpaper on my desktop using a program called '''Komorebi'''. I absolutely love it. I still have a few things to grasp but I can see myself using Linux more in the future.
+Recently I've been loving Linux a lot, just something about the ability to fully customize the whole operating system is so appealing, like recently I got a moving wallpaper on my desktop using a program called `Komorebi`. I absolutely love it. I still have a few things to grasp but I can see myself using Linux more in the future.
 
 As of late I've been looking into a company called System76, they make Desktops and Laptops that mainly use Linux, PopOS specifically, and I like the concept. I was looking at their laptops but since Linus Tech Tips did a video on them recently most of System76's products are out of stock. I put a link at the bottom to their website.
 
