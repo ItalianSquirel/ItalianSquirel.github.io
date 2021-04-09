@@ -13,13 +13,13 @@ I've done quite some research into RetroPi and other emulation solutions.
 As for updates to the site, I added a sites page that has plenty of articles, web-tools, links to programs, etc.. I also added a downloads page for file sharing, I don't know, I might update it to be something more later.
 
 <details>
-  <summary>"Heres the links to what I was talking about earlier:"</summary>
+  <summary>"Heres the links to what I was talking about earlier:"</summary> <br>
   
-* [System76](https://system76.com/)
+* [System76](https://system76.com/)<br>
 
-* [Komorebi](https://github.com/cheesecakeufo/komorebi)
+* [Komorebi](https://github.com/cheesecakeufo/komorebi)<br>
 
-"P.S. I was just testing the Details/Summary Pages addition."
+"P.S. I was just testing the Details/Summary Pages addition."<br>
 </details>
 
 See ya.
