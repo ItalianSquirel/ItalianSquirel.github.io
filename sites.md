@@ -22,5 +22,11 @@ title: Websites/Tools
 
 [WSL Setup](https://pbpython.com/wsl-python.html)
 
+[Notepad++](http://notepad-plus-plus.org/)
+
+[Microsoft Visual Studio](https://code.visualstudio.com/)
+
+[VirusTotal Uploader](https://www.virustotal.com/gui/)
+
 More Coming Soon...
 
