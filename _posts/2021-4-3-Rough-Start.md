@@ -2,6 +2,8 @@
 title: "Rough start to Linux..."
 published: true
 ---
+## Rough Start to Linux
+---
 
 Howdy.
 
