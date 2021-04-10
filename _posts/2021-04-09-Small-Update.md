@@ -8,7 +8,7 @@ Recently I've been loving Linux a lot, just something about the ability to fully
 
 As of late I've been looking into a company called System76, they make Desktops and Laptops that mainly use Linux, PopOS specifically, and I like the concept. I was looking at their laptops but since Linus Tech Tips did a video on them recently most of System76's products are out of stock. I put a link at the bottom to their website.
 
-I've done quite some research into RetroPi and other emulation solutions.
+I've done quite some research into RetroPi and other emulation solutions. This includes adding to my exsisting ROM archive. Sadly I dont have any Raspberry Pi's near me at the moment so my RetroPi ideas will just have to wait. I saw a really cool theme someone made on Reddit, based of BMO from Adventure Time.  
 
 As for updates to the site, I added a sites page that has plenty of articles, web-tools, links to programs, etc.. I also added a downloads page for file sharing, I don't know, I might update it to be something more later.
 
@@ -18,6 +18,8 @@ As for updates to the site, I added a sites page that has plenty of articles, we
 * [System76](https://system76.com/)<br>
 
 * [Komorebi](https://github.com/cheesecakeufo/komorebi)<br>
+
+* [BMO RetroPi Theme](https://www.reddit.com/r/RetroPie/comments/jbbpti/bmo_retropie_cart_custom_es_theme/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)<br>
 
 "P.S. I was just testing the Details/Summary Pages addition."<br>
 </details>
