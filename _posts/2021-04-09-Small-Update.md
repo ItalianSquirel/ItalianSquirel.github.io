@@ -25,3 +25,36 @@ As for updates to the site, I added a sites page that has plenty of articles, we
 </details>
 
 See ya.
+
+<p>
+<details><summary>Cool Dropdown #1</summary><br/>
+
+```js
+// so wow, much amazing... you can even put code in these drop downs!
+document.getElementById('root')
+```s
+
+[Or a link - like to google](https://google.com)
+
+- Or a List
+  - or a nested List
+  - like this
+  - with :smile: emojis
+- Like this
+
+Or even just normal text
+
+</details>
+
+<details><summary>Cool Dropdown #2</summary><br>
+
+More cool text hiding in my dropdown
+
+</details>
+
+<details><summary>Cool Dropdown #3</summary><br>
+
+Easter egg! :egg::egg::egg:
+
+</details>
+</p>
