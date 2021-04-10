@@ -31,4 +31,5 @@ plugins:
 owner : "ItalianSquirel"
 year : "2021"
 
-gems: - jekyll-sitemap
+gems: 
+      - jekyll-sitemap
