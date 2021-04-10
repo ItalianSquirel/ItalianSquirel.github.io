@@ -2,7 +2,6 @@
 title: Hello World Post
 published: true
 ---
-## Hello World
 ---
 
 I did it! I finally got things going. I will be uploading new posts to this “website” (I’m not gonna call it a blog because that makes me sound like a boomer) just about every time I hit a stumbling block in my attempts to play with linux and just do random projects, so ill be adding to here pretty often.
