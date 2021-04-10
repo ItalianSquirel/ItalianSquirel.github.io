@@ -2,7 +2,6 @@
 title: A Little Update
 published: true
 ---
-## A Little Update
 ---
 
 
