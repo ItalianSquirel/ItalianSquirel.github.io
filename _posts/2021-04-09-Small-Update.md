@@ -15,11 +15,11 @@ As for updates to the site, I added a sites page that has plenty of articles, we
 <details>
   <summary>"Heres the links to what I was talking about earlier:"</summary>
   
-* [System76](https://system76.com/)<br>
+[System76](https://system76.com/)<br>
 
-* [Komorebi](https://github.com/cheesecakeufo/komorebi)<br>
+[Komorebi](https://github.com/cheesecakeufo/komorebi)<br>
 
-* [BMO RetroPi Theme](https://www.reddit.com/r/RetroPie/comments/jbbpti/bmo_retropie_cart_custom_es_theme/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)<br>
+[BMO RetroPi Theme](https://www.reddit.com/r/RetroPie/comments/jbbpti/bmo_retropie_cart_custom_es_theme/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)<br>
 
 "P.S. I was just testing the Details/Summary Pages addition."<br>
 </details>
