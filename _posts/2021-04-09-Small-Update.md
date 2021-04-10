@@ -12,8 +12,9 @@ I've done quite some research into RetroPi and other emulation solutions. This i
 
 As for updates to the site, I added a sites page that has plenty of articles, web-tools, links to programs, etc.. I also added a downloads page for file sharing, I don't know, I might update it to be something more later.
 
-<details>
-  <summary>"Heres the links to what I was talking about earlier:"</summary>
+
+## "Heres the links to what I was talking about earlier:"
+---
   
 [System76](https://system76.com/)<br>
 
@@ -25,36 +26,3 @@ As for updates to the site, I added a sites page that has plenty of articles, we
 </details>
 
 See ya.
-
-<p>
-<details><summary>Cool Dropdown #1</summary><br/>
-
-```js
-// so wow, much amazing... you can even put code in these drop downs!
-document.getElementById('root')
-```s
-
-[Or a link - like to google](https://google.com)
-
-- Or a List
-  - or a nested List
-  - like this
-  - with :smile: emojis
-- Like this
-
-Or even just normal text
-
-</details>
-
-<details><summary>Cool Dropdown #2</summary><br>
-
-More cool text hiding in my dropdown
-
-</details>
-
-<details><summary>Cool Dropdown #3</summary><br>
-
-Easter egg! :egg::egg::egg:
-
-</details>
-</p>
