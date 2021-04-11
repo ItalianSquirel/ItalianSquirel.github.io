@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://italiansquirel.com/</loc>
+  <lastmod>2021-04-11T02:28:03+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://italiansquirel.com/archive</loc>
+  <lastmod>2021-04-11T02:28:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://italiansquirel.com/downloads</loc>
+  <lastmod>2021-04-11T02:28:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://italiansquirel.com/sites</loc>
+  <lastmod>2021-04-11T02:28:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://italiansquirel.com/about</loc>
+  <lastmod>2021-04-11T02:28:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://italiansquirel.com/small-update</loc>
+  <lastmod>2021-04-11T02:28:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://italiansquirel.com/Rough-Start</loc>
+  <lastmod>2021-04-11T02:28:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://italiansquirel.com/Hello-World</loc>
+  <lastmod>2021-04-11T02:28:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://italiansquirel.com/page/2/</loc>
+  <lastmod>2021-04-11T02:28:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://italiansquirel.com/sample-page</loc>
+  <lastmod>2021-04-11T02:28:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
