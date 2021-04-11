@@ -34,5 +34,9 @@ title: Websites/Tools
 
 * [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
+* [Node-RED](https://nodered.org/)
+
+* [Sheilds.io](https://shields.io/)
+
 More Coming Soon...
 
