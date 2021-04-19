@@ -38,5 +38,7 @@ title: Websites/Tools
 
 * [Sheilds.io](https://shields.io/)
 
+* [7-Zip](http://www.7-zip.org)
+
 More Coming Soon...
 
