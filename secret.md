@@ -1,5 +1,5 @@
 ---
-title: Sample Page
+title: Secret
 published: true
 ---
 
