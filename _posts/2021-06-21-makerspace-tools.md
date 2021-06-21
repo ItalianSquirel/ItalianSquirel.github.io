@@ -77,6 +77,6 @@ This software also takes a variety of different file types and this slicer expor
 ### Links:
 
 * [Laser Quick Start Guide](https://github.com/ItalianSquirel/ItalianSquirel.github.io/raw/master/assets/Muse%20Quick%20Start.pdf)
-* [Krita, Vector Graphics Studio](https://krita.org/en/download/krita-desktop/)
+* [Krita, Vector Graphics Studio](https://krita.org/en/download/krita-desktop/){target=_blank}
 * [Slicing Software for the X-Plus]( https://www.qd3dprinter.com/software/)
 * [Slicing Software for the MakerBot](https://www.makerbot.com/3d-printers/apps/makerbot-print/download/)
