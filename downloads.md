@@ -12,6 +12,6 @@ title: Downloads
 
 [Files for Jimmy (G-Drive)](https://drive.google.com/file/d/1z_RKy50BUt-xquAwpHfuGrtl4tb8JJ2s/view?usp=sharing)
 
-[MakerSpace IMG(G-Drive)](https://drive.google.com/file/d/1bhh6OA9yInv4EF732ZRPFNx2AULn4Sjm/view?usp=sharing)
+[MakerSpace IMG (G-Drive)](https://drive.google.com/file/d/1bhh6OA9yInv4EF732ZRPFNx2AULn4Sjm/view?usp=sharing)
 
 More Coming Soon...
