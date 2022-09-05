@@ -40,5 +40,21 @@ title: Websites/Tools
 
 * [7-Zip](http://www.7-zip.org)
 
+* [TinyWow](https://tinywow.com/)
+
+* [Wolfram Alpha](https://www.wolframalpha.com/)
+
+* [Jot Form](www.jotform.com)
+
+* [Open Source Alternatives](https://www.opensourcealternative.to/)
+
+* [Axiom.ai](https://axiom.ai/)
+
+* [Swipe File](https://swipefile.com/)
+
+* [Carrd](https://carrd.co/)
+
+* [Flourish](https://flourish.studio/)
+
 More Coming Soon...
 
