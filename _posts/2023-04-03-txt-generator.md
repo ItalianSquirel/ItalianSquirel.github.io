@@ -1,5 +1,5 @@
 ---
-title: My Flavor Text Generator: A Fun Side Project
+title: My Flavor Text Generator
 published: true
 ---
 ---
