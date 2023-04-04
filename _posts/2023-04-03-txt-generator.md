@@ -14,6 +14,6 @@ Creating this project was a lot of fun, and it allowed me to flex my coding skil
 
 One of the things that I enjoyed most about this project was the creativity that it allowed me to exercise. Coming up with interesting and engaging flavor texts was a fun challenge, and it was exciting to see what the generator would come up with next.
 
-Overall, I am very proud of my flavor text generator. It may be a small project, but it was a fun and rewarding one. I learned a lot, and I had a blast creating it. If you're interested in trying it out, you can find the code on my GitHub repository.
+Overall, I am very proud of my flavor text generator. It may be a small project, but it was a fun and rewarding one. I learned a lot, and I had a blast creating it. If you're interested in trying it out, you can find the code on my [GitHub repository](https://github.com/ItalianSquirel/FlavorTxtGenerator).
 
 Thanks for reading!
