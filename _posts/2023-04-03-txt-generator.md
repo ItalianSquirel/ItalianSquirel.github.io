@@ -4,7 +4,7 @@ published: true
 ---
 ---
 
-# My Flavor Text Generator: A Fun Side Project
+My Flavor Text Generator: A Fun Side Project
 
 I recently created a flavor text generator, and I am very proud of it! This little project started as a simple idea that I had while browsing Reddit, and it quickly turned into something that I spent hours working on.
 
