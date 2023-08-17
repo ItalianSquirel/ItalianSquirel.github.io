@@ -1,5 +1,10 @@
+---
+title: Painting Flat Surfaces with Bambu Labs
+published: true
+---
+---
 
-## Painting Flat Surfaces using the AMS Paint Tool for Bambu Labs 3D Printers
+### Painting Flat Surfaces using the AMS Paint Tool for Bambu Labs 3D Printers
 
 These instructions will guide you through the process of preparing and painting flat surfaces using the AMS Paint Tool for Bambu Labs 3D Printers.
 
